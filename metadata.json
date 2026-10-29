@@ -1,0 +1,6 @@
+{
+  "name": "RoofPro - Roofing & Waterproofing Services Pakistan",
+  "description": "Professional roofing, waterproofing, heatproofing, and roof repair services for homes and commercial buildings in Karachi and Sindh, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
