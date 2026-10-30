@@ -1,150 +1,243 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture.PNG" width="100%" alt="RoofPro Roofing and Waterproofing Website"/>
-
-# 🏠 RoofPro
-
-### Modern Roofing & Waterproofing Solutions
-
-**A modern, responsive web experience for roofing and waterproofing services.**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:B52F24,50:202020,100:8F211A&text=ROOFPRO&fontColor=FFFFFF&fontSize=76&fontAlignY=42&desc=ROOFING%20%26%20WATERPROOFING%20SOLUTIONS&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="RoofPro Animated Banner"/>
 
 <br/>
 
-<a href="https://github.com/GhousDeveloper/waterproofing-website">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-</a>
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19"/>
-<img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Vite-Powered-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=B52F24&center=true&vCenter=true&width=700&lines=Modern+Roofing+%26+Waterproofing+Website;Built+with+React+19+%26+TypeScript;Responsive+Design+%7C+Modern+UI+%7C+Clean+Code;Explore+the+RoofPro+Experience" alt="Animated RoofPro Typing Text"/>
+
+<br/>
+
+<p>
+  <a href="https://roofpro-waterproofing.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_RoofPro-B52F24?style=for-the-badge&labelColor=202020" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/GhousDeveloper/waterproofing-website">
+    <img src="https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-202020?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Vite-Fast_Builds-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Status-Deployed-2EA44F?style=flat-square" alt="Deployment Status"/>
 
 <br/><br/>
 
-**Designed for performance. Built for usability. Made for the construction industry.**
+**A modern digital experience for roofing and waterproofing services.**
+
+*Professional design. Responsive experience. Modern frontend engineering.*
 
 </div>
 
 ---
 
-## 📑 Table of Contents
-
-- [Overview](#-overview)
-- [Project Preview](#-project-preview)
-- [Key Features](#-key-features)
-- [Technology Stack](#-technology-stack)
-- [Project Architecture](#-project-architecture)
-- [Getting Started](#-getting-started)
-- [Available Scripts](#-available-scripts)
-- [Design System](#-design-system)
-- [Developer](#-developer)
-
----
-
-## 🚀 Overview
-
-**RoofPro** is a modern roofing and waterproofing website developed to showcase construction services, highlight completed projects, and help potential customers explore available solutions.
-
-The application combines a professional visual identity with responsive layouts, reusable React components, service-focused pages, project galleries, and customer inquiry interfaces.
-
-Built using **React 19, TypeScript, Vite, and Tailwind CSS v4**, the project emphasizes maintainable architecture, type safety, responsive design, and a polished user experience.
-
-### 🎯 Project Goals
-
-- Present roofing and waterproofing services professionally.
-- Showcase projects through visual galleries.
-- Make service discovery simple and intuitive.
-- Provide convenient inquiry and estimate interfaces.
-- Deliver a consistent experience across desktop, tablet, and mobile devices.
-
----
-
-## 🖼️ Project Preview
-
-### Main Website
+## 🌐 Live Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture.PNG" width="100%" alt="RoofPro Main Website Preview"/>
-  <p><em>RoofPro — Main website interface</em></p>
+
+### Experience RoofPro in Action
+
+<a href="https://roofpro-waterproofing.netlify.app/">
+  <img src="https://img.shields.io/badge/OPEN_LIVE_WEBSITE-Click_Here_to_Explore-FFFFFF?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Open Live RoofPro Website"/>
+</a>
+
+<br/><br/>
+
+**🔗 Live Website:** https://roofpro-waterproofing.netlify.app/
+
+**📦 GitHub Repository:** https://github.com/GhousDeveloper/waterproofing-website
+
 </div>
 
-### Website Screenshots
+---
+
+## 🏠 About RoofPro
+
+**RoofPro** is a modern roofing and waterproofing website designed to present construction services through an attractive, user-friendly, and responsive interface.
+
+Developed with **React 19, TypeScript, Vite, and Tailwind CSS v4**, the project focuses on clear service presentation, engaging project visuals, reusable components, and convenient customer inquiry interfaces.
+
+The website combines a construction-focused visual identity with modern frontend development practices to create a professional online experience.
+
+### 🎯 Project Vision
+
+- Present roofing and waterproofing services clearly.
+- Make service discovery simple and intuitive.
+- Showcase projects using visual sections and galleries.
+- Provide convenient contact and estimate interfaces.
+- Deliver a consistent experience across desktop, tablet, and mobile devices.
+- Maintain a modular, scalable frontend architecture.
+
+---
+
+## 🖼️ Website Showcase
+
+<div align="center">
+
+### ✨ Main Website Preview
+
+<a href="https://roofpro-waterproofing.netlify.app/">
+  <img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture.PNG" width="100%" alt="RoofPro Main Website Screenshot"/>
+</a>
+
+<sub>Click the preview to explore the live website.</sub>
+
+</div>
+
+<details>
+<summary><b>📸 Explore All Website Screenshots</b></summary>
+
+<br/>
 
 <table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture2.PNG" width="100%" alt="RoofPro Website Screenshot 2"/>
-      <p align="center"><b>Website Preview 02</b></p>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture23.PNG" width="100%" alt="RoofPro Website Screenshot 3"/>
-      <p align="center"><b>Website Preview 03</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture4.PNG" width="85%" alt="RoofPro Website Screenshot 4"/>
-      <p><b>Website Preview 04</b></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+
+**Website Preview 02**
+
+<img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture2.PNG" width="100%" alt="RoofPro Screenshot 2"/>
+
+</td>
+<td width="50%" align="center">
+
+**Website Preview 03**
+
+<img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture23.PNG" width="100%" alt="RoofPro Screenshot 3"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**Website Preview 04**
+
+<img src="https://raw.githubusercontent.com/GhousDeveloper/waterproofing-website/6aa1a76ed15c87658f3340029be2ce1f74668109/public/assets/roof/Capture4.PNG" width="85%" alt="RoofPro Screenshot 4"/>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## 🚀 Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Roofing Services
+
+Service-focused sections and pages designed to present roofing solutions professionally.
+
+</td>
+<td width="50%">
+
+### 💧 Waterproofing Solutions
+
+A dedicated visual experience for showcasing waterproofing services and related offerings.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📸 Project Showcase
+
+Visual project sections designed to help visitors explore featured work.
+
+</td>
+<td width="50%">
+
+### 💰 Cost Estimation
+
+A PKR-oriented estimation interface for exploring potential project costs.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Responsive Interface
+
+Layouts designed to adapt to desktop, tablet, and mobile screens.
+
+</td>
+<td width="50%">
+
+### 🧩 Reusable Components
+
+Modular React components for a more consistent and maintainable codebase.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📋 Customer Inquiries
+
+Contact and estimate interfaces that provide entry points for prospective customers.
+
+</td>
+<td width="50%">
+
+### ⚡ Modern Frontend Stack
+
+TypeScript, React, Vite, and Tailwind CSS v4 for modern frontend development.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## ✨ Key Features
+## ⚙️ Technology Stack
 
-### 🏗️ Roofing & Waterproofing Services
-Dedicated service pages designed to present available solutions and help visitors understand different service offerings.
+<div align="center">
 
-### 📸 Project Showcase
-Visual project sections that highlight completed work and provide an engaging way to explore construction projects.
-
-### 💰 Cost Estimation Interface
-A PKR-oriented estimation experience designed to help visitors explore potential project costs.
-
-*Actual estimates depend on the application's configured pricing rules and the project requirements.*
-
-### 📱 Responsive Design
-Layouts designed to adapt to desktop, tablet, and mobile screen sizes.
-
-### 🧩 Reusable Components
-Shared UI components help maintain consistent styling and simplify future development.
-
-### 🧭 Intuitive Navigation
-Structured navigation, service discovery, and page layouts help visitors find relevant information quickly.
-
-### 📋 Customer Inquiry Interface
-Contact and estimate interfaces provide entry points for customers interested in roofing and waterproofing services.
-
-### 🎨 Consistent Visual Identity
-A construction-focused color palette, modern typography, and clear calls to action create a cohesive interface.
-
-### ⚡ Modern Frontend Architecture
-React components, TypeScript interfaces, and a Vite-powered development workflow support a maintainable codebase.
-
----
-
-## 🛠️ Technology Stack
-
-| Technology | Purpose |
+| Technology | Role |
 |---|---|
-| React 19 | Component-based user interface |
-| TypeScript | Type safety and maintainability |
-| Vite | Development server and build tooling |
-| Tailwind CSS v4 | Utility-first styling |
-| Lucide React | Interface icons |
-| CSS Custom Properties | Centralized design tokens |
-| History API | Client-side navigation approach |
+| ⚛️ React 19 | Component-based UI development |
+| 🔷 TypeScript | Type-safe application code |
+| ⚡ Vite | Development server and production builds |
+| 🎨 Tailwind CSS v4 | Responsive styling |
+| 🧩 Lucide React | Interface icons |
+| 🛣️ History API | Client-side navigation approach |
+| 🔤 Plus Jakarta Sans | Heading typography |
+| 🔡 DM Sans | Body typography |
 
-### Typography
-
-- **Plus Jakarta Sans** — headings and prominent text.
-- **DM Sans** — body text and interface content.
+</div>
 
 ---
 
-## 📂 Project Architecture
+## 🎨 Design System
 
-The project follows a modular frontend structure that separates reusable components, page layouts, and website content.
+RoofPro uses a construction-focused visual identity built around bold red accents, charcoal surfaces, and a warm background.
+
+| Color | Hex Code | Usage |
+|---|---|---|
+| 🔴 Primary Red | `#B52F24` | Main actions and accents |
+| 🟥 Deep Red | `#8F211A` | Darker accent states |
+| ⬛ Charcoal | `#202020` | Text and dark surfaces |
+| 🤍 Warm Background | `#FAF7F5` | Main page backgrounds |
+
+### Design Principles
+
+- Clear visual hierarchy.
+- Consistent spacing and typography.
+- Responsive page layouts.
+- Reusable UI patterns.
+- Accessible interaction targets.
+- Clear calls to action.
+
+---
+
+## 📂 Project Structure
 
 ```text
 waterproofing-website/
@@ -163,11 +256,6 @@ waterproofing-website/
 │   │
 │   ├── components/
 │   │   ├── common/
-│   │   │   ├── Logo
-│   │   │   ├── WaveDivider
-│   │   │   ├── EstimateForm
-│   │   │   └── EstimateModal
-│   │   │
 │   │   ├── home/
 │   │   └── layout/
 │   │
@@ -187,25 +275,22 @@ waterproofing-website/
 │   └── App.tsx
 │
 ├── package.json
-├── index.html
 └── README.md
 ```
 
-*This is a high-level representation of the project structure. Actual filenames and directories may differ in the repository.*
+<sub>Note: This is a representative structure based on the project architecture; verify filenames against the current repository.</sub>
 
 ---
 
-## ⚙️ Getting Started
+## 💻 Getting Started
 
-Follow these steps to run RoofPro locally.
+Run RoofPro locally on your computer.
 
 ### Prerequisites
 
-Install the following tools:
-
-- [Node.js](https://nodejs.org/) — a compatible Node.js version.
-- [Git](https://git-scm.com/) — for version control.
-- npm — included with Node.js.
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/)
+- npm
 
 ### 1. Clone the Repository
 
@@ -213,7 +298,7 @@ Install the following tools:
 git clone https://github.com/GhousDeveloper/waterproofing-website.git
 ```
 
-### 2. Navigate to the Project
+### 2. Open the Project
 
 ```bash
 cd waterproofing-website
@@ -231,86 +316,68 @@ npm install
 npm run dev
 ```
 
-### 5. Open the Website
+### 5. Open in Your Browser
 
-Open the local URL displayed in your terminal, usually:
+Visit the local URL shown in your terminal. With the default Vite configuration, this is usually:
 
 ```text
 http://localhost:5173
 ```
 
----
+### Production Build
 
-## 📜 Available Scripts
+```bash
+npm run build
+```
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Starts the local development server |
-| `npm run build` | Builds the application for production |
-| `npm run preview` | Previews the production build locally |
+### Preview the Production Build
 
-*These commands assume the corresponding scripts are defined in `package.json`.*
-
----
-
-## 🎨 Design System
-
-RoofPro uses a construction-focused visual identity with a warm background, strong typography, and red accent colors.
-
-| Design Token | Value | Purpose |
-|---|---|---|
-| Primary Red | `#B52F24` | Primary actions and accents |
-| Deep Red | `#8F211A` | Darker accents and hover states |
-| Charcoal | `#202020` | Strong text and dark elements |
-| Warm Background | `#FAF7F5` | Main background surfaces |
-
-### Design Principles
-
-- Clear visual hierarchy.
-- Consistent spacing and typography.
-- Responsive page layouts.
-- Reusable UI patterns.
-- Readable content and accessible interaction targets.
-- Conversion-focused service and inquiry interfaces.
+```bash
+npm run preview
+```
 
 ---
 
-## 🔧 Development & Customization
+## 🔮 Future Improvements
 
-The project can be extended with additional features as the business requirements evolve.
+Possible future enhancements include:
 
-Potential enhancements include:
-
-- Backend-connected estimate requests.
-- Customer inquiry management.
+- Backend-connected customer inquiries.
+- Persistent estimate request storage.
 - Online appointment scheduling.
-- Project management and content administration.
-- Search-engine optimization improvements.
+- A service and project management dashboard.
+- Search engine optimization improvements.
 - Analytics and conversion tracking.
 
-These are possible future enhancements, not claims that the features are already implemented.
+*These are potential improvements, not claims that they are already implemented.*
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Meet the Developer
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B52F24,100:202020" width="100%" alt="Section Divider"/>
+
 ### Ghulam Ghous Kalwar
 
-**Frontend Developer | Full-Stack Developer | AI Engineer**
+**Frontend Developer · Full-Stack Developer · AI Engineer**
 
-Building modern web applications, SaaS products, and AI-powered solutions.
+Building modern websites, SaaS applications, and AI-powered solutions.
 
 <br/>
 
 <a href="https://github.com/GhousDeveloper">
-  <img src="https://img.shields.io/badge/GitHub-GhousDeveloper-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
 
 <a href="https://github.com/GhousDeveloper/waterproofing-website">
-  <img src="https://img.shields.io/badge/Project-RoofPro-B52F24?style=for-the-badge&logo=github" alt="RoofPro Repository"/>
+  <img src="https://img.shields.io/badge/Repository-Explore_Source_Code-B52F24?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
+
+<br/><br/>
+
+**Have a project in mind? Let's build something great.**
 
 </div>
 
@@ -318,14 +385,17 @@ Building modern web applications, SaaS products, and AI-powered solutions.
 
 <div align="center">
 
-### 🏠 RoofPro — Built for a Better Roofing Experience
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8F211A,50:B52F24,100:202020&section=footer" width="100%" alt="Animated RoofPro Footer"/>
 
-**Designed with care. Developed with modern web technologies.**
+### 🏠 RoofPro — Roofing & Waterproofing
 
-<sub>© RoofPro Website Project · Developed by Ghulam Ghous Kalwar</sub>
+**Built with ❤️ and modern web technologies.**
 
-<br/><br/>
+<sub>Developed by Ghulam Ghous Kalwar</sub>
 
-<img src="https://img.shields.io/badge/Made_with-React_%26_TypeScript-3178C6?style=flat-square" alt="Made with React and TypeScript"/>
+<br/>
+
+<a href="https://roofpro-waterproofing.netlify.app/">🌐 Live Website</a> ·
+<a href="https://github.com/GhousDeveloper/waterproofing-website">💻 GitHub Repository</a>
 
 </div>
