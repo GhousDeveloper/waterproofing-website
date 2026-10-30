@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:B52F24,50:202020,100:8F211A&text=ROOFPRO&fontColor=FFFFFF&fontSize=76&fontAlignY=42&desc=ROOFING%20%26%20WATERPROOFING%20WEBSITE&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="RoofPro animated banner"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:B52F24,50:202020,100:8F211A&text=ROOFPRO&fontColor=FFFFFF&fontSize=76&fontAlignY=42&desc=ROOFING%20%26%20WATERPROOFING%20SOLUTIONS&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="RoofPro Animated Banner"/>
 <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1200&color=B52F24&center=true&vCenter=true&width=720&lines=Reliable+Roofing+%26+Waterproofing+Solutions;React+19+%C2%B7+TypeScript+%C2%B7+Vite+%C2%B7+Tailwind+CSS+v4;Responsive+multi-page+business+website" alt="RoofPro typing animation: Reliable Roofing and Waterproofing Solutions; React 19, TypeScript, Vite, Tailwind CSS v4; Responsive multi-page business website"/>
 
 <br/>
